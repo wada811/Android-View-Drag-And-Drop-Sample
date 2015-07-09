@@ -1,0 +1,5 @@
+- FrameLayout の中にいる ImageView を FrameLayout の範囲外にも描画しつつ、他の FrameLayout の上にも描画したい。
+- bringToFront() すれば FrameLayout ごと最前面に持ってこれる。
+- ListView のように ListItem(FrameLayout) が隣接していると、どれかが最前面に来るとそれによって他の ListItem(FrameLayout) が後ろに来て中身の ImageView が隠れてしまう。
+- ListView の divider 上に被るように ImageView を載せようとすると最前面でない ListItem(FrameLayout) ではより上位の ListItem(FrameLayout) に上書きされてしまう。
+- つらい。

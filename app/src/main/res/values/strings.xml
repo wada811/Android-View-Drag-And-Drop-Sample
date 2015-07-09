@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android-View-Drag-And-Drop-Sample</string>
+    <string name="title_activity_simple_drag_and_drop">SimpleDragAndDropActivity</string>
+    <string name="title_activity_list_drag_and_drop">ListDragAndDropActivity</string>
+    <string name="title_activity_recycler_drag_and_drop">RecyclerDragAndDropActivity</string>
+    <string name="title_activity_clip_children">ClipChildrenActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
